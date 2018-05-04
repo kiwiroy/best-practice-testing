@@ -1,0 +1,4 @@
+This directory contains sample data for illustrating Best Practice Documents
+
+The intent is to provide a location for test data so that Jupyter Notebooks can access it.
+
